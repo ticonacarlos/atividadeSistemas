@@ -3,8 +3,11 @@ body{ background: #87CEFA
 p{text-align: center
 }
 
-div.1{
-    float: left;
+
+
+
+div{
+    float: left; 
 
 }
 
@@ -37,3 +40,4 @@ footer {
     color: white;
     background: #008B8B;
     height: 40px;
+   }
